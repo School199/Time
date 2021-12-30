@@ -1,0 +1,2 @@
+# Time
+Simple get time
