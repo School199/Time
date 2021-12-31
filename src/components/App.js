@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="container">
-      <p>{text}</p>
+      <h1>{text}</h1>
       <button onClick={click}>Get Time</button>
     </div>
   );
